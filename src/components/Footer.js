@@ -6,12 +6,12 @@ class Footer extends Component {
             <footer>
                 <div class="card">
                     <div class="card-header">
-                        Featured
+                        
                     </div>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-success">Go somewhere</a>
+                    <div class="card-body" align="center">
+                        <h3 class="card-title">CONTACTO</h3>
+                        <p class="card-text">¡Sígueme en mis redes sociales!</p>
+                        <a href="#" class="btn btn-success">Home</a>
                     </div>
                 </div>
             </footer>

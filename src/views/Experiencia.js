@@ -6,11 +6,11 @@ class Experiencia extends Component {
 <div align="center">
 <p>
   <a class="btn btn-success" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
-  Instituto Hidalguense de la Juventud (A través del Programa "Jóvenes Construyendo el Futuro" del Gobierno de México)</a>
+  Instituto Hidalguense de la Juventud <br></br>(Programa "Jóvenes Construyendo el Futuro" <br></br> del Gobierno de México)</a>
   <button class="btn btn-success" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">
-  Vera Pachuca</button>
+  Vera <br></br> Creando Sueños</button>
   <button class="btn btn-success" type="button" data-toggle="collapse" data-target="#multiCollapseExample3" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">
-  Pragna/Vera Pachuca (A través del Programa "Mi Primer Empleo, Mi Primer Salario" del Gobierno de Hidalgo)</button>
+  Pragna/Vera Creando Sueños <br></br> (Programa "Mi Primer Empleo, Mi Primer Salario" <br></br>del Gobierno de Hidalgo)</button>
 </p>
 <div class="row">
   <div class="col">

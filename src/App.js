@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Navbar/>
-      <h1>¡Bienvenido!</h1>
+      <h1 align="center">¡Bienvenido!</h1>
       <Home/>
       
       <Experiencia/>
